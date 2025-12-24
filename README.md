@@ -75,5 +75,5 @@ if you have any interest in contributing, fork the repository and submit a pull 
 Soltrade does not currently include a platform fee and will remain open-source forever.
 If you're feeling a bit more generous however, please donate to my $SOL address below.
 ```
-6XeQkUDZdsGsKBrhGWRuweHu4nbcv23t8r8vPt5xEsMv
+8XdGr5YKeQBWVKRqBiWMp7ivF7YaJyRhtHyoGzPR9s7k
 ```
